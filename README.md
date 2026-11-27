@@ -1,6 +1,7 @@
-[![make.fun](https://img.shields.io/badge/make.fun-black--friday--deal--finder--01-7c3aed)](https://make.fun/c/black-friday-deal-finder-01)
+[![make.fun · black-friday-deal-finder-01](https://make.fun/badge/black-friday-deal-finder-01.svg)](https://make.fun/bounty/black-friday-deal-finder-01?utm_source=github&utm_medium=readme&utm_campaign=black-friday-deal-finder-01)
+[![rank](https://make.fun/badge/black-friday-deal-finder-01/labibhanafi/black-friday-deal-finder-01-entry/rank.svg)](https://make.fun/bounty/black-friday-deal-finder-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=black-friday-deal-finder-01)
+[![reward](https://make.fun/badge/black-friday-deal-finder-01/labibhanafi/black-friday-deal-finder-01-entry/reward.svg)](https://make.fun/bounty/black-friday-deal-finder-01?utm_source=github&utm_medium=readme&utm_campaign=black-friday-deal-finder-01)
 [![license](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![status](https://img.shields.io/badge/status-built-blue)](app/index.html)
 
 # DealBeacon — Black Friday Deal Finder
 
